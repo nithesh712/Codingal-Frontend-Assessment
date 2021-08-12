@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Site is Live on
 
-https://codingal-frontend-assesment.netlify.app
+https://codingal-frontend-assessment.netlify.app/
 
 ## Available Scripts
 
